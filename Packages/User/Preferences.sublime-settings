@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"find_selected_text": true,
+	"font_size": 16,
+	"ignored_packages":
+	[
+	],
+	"open_files_in_new_window": false,
+	"tab_size": 4,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"word_wrap": true
+}
