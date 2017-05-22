@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/theme - spacegray/base16-eighties.dark.tmTheme",
+	"font_size": 14,
+	"gutter": true,
+	"ignored_packages":
+	[
+	],
+	"tab_size": 4,
+	"word_wrap": true
+}
