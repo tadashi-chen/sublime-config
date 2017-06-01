@@ -1,1 +1,2 @@
-Sublime Text 3 的配置文件，windows与Mac OS X均可用
+`master`分支为`Mac OS X`版本
+`windows`分支为`windows`版本
