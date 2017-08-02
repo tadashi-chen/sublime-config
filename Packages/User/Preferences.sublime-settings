@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/theme - spacegray/base16-eighties.dark.tmTheme",
-	"font_size": 14,
+	"font_face": "monaco",
+	"font_size": 13,
 	"gutter": true,
 	"ignored_packages":
 	[

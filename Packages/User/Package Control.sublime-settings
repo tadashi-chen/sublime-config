@@ -5,10 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"Add Folder To Project",
 		"DocBlockr",
 		"HTML-CSS-JS Prettify",
 		"Package Control",
 		"Pretty JSON",
-		"Theme - itg.flat"
+		"Theme - itg.flat",
+		"Vue Syntax Highlight"
 	]
 }
