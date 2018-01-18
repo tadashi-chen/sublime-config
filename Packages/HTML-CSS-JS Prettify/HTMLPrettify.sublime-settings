@@ -4,7 +4,7 @@
     // http://nodejs.org/#download
     "node_path":
     {
-        "windows": "C:/Program Files/node-v7.9.0-win-x64/node.exe",
+        "windows": "C:/Program Files/nodejs/node.exe",
         "linux": "/usr/bin/nodejs",
         "osx": "/usr/local/bin/node"
     },
