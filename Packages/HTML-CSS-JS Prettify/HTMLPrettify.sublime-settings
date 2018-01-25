@@ -6,7 +6,7 @@
     {
         "windows": "C:/Program Files/nodejs/node.exe",
         "linux": "/usr/bin/nodejs",
-        "osx": "/usr/local/bin/node"
+        "osx": "/Users/chenjing/.nvm/versions/node/v8.9.4/bin/node"
     },
 
     // Automatically format when a file is saved.

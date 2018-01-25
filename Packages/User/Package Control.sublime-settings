@@ -7,8 +7,12 @@
 	[
 		"DocBlockr",
 		"HTML-CSS-JS Prettify",
+		"JSX",
+		"LESS",
 		"Package Control",
 		"Pretty JSON",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint_d",
 		"Vue Syntax Highlight"
 	]
 }

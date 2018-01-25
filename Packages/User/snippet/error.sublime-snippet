@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-console.error(${1:err});
+console.error(${1:err})
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>error</tabTrigger>
