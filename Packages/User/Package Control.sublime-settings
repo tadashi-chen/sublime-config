@@ -13,6 +13,7 @@
 		"Pretty JSON",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint_d",
+		"SublimeLinter-eslint",
 		"Vue Syntax Highlight"
 	]
 }
