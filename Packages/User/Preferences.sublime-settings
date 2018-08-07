@@ -1,12 +1,18 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
 	"font_face": "monaco",
-	"font_size": 15,
+	"font_size": 16,
 	"ignored_packages":
 	[
 	],
 	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
 	"tab_size": 2,
 	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,

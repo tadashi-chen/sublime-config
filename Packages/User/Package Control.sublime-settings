@@ -5,14 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"DocBlockr",
 		"HTML-CSS-JS Prettify",
 		"JSX",
 		"LESS",
 		"Package Control",
 		"Pretty JSON",
-		"SublimeLinter",
-		"SublimeLinter-contrib-eslint_d",
 		"SublimeLinter-eslint",
 		"Vue Syntax Highlight"
 	]
