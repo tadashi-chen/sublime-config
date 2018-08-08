@@ -13,6 +13,7 @@
 		"Package Control",
 		"Pretty JSON",
 		"SublimeLinter-eslint",
-		"Vue Syntax Highlight"
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
 	]
 }
