@@ -3,7 +3,7 @@
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
 	"font_face": "monaco",
-	"font_size": 16,
+	"font_size": 15,
 	"ignored_packages":
 	[
 	],
@@ -14,7 +14,6 @@
 	],
 	"scroll_past_end": true,
 	"tab_size": 2,
-	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true
 }
